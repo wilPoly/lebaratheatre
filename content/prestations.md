@@ -4,10 +4,6 @@ date: 2021-09-21T23:24:47+02:00
 draft: true
 ---
 
-| Les ateliers | L'atelier théâtre | L'atelier impro |
-| ------------ | ----------------- | --------------- |
-| Ponctuels ou réguliers, ils peuvent être adaptés sous forme de stages (d'initiation ou à thème).<br>Ils s’articulent autour de divers exercices ludiques qui permettent d’apprendre à faire du théâtre en s’amusant. |
-
 ## Les ateliers
 Ponctuels ou réguliers, ils peuvent être adaptés sous forme de stages (d'initiation ou à thème).
 Ils s’articulent autour de divers exercices ludiques qui permettent d’apprendre à faire du théâtre en s’amusant.

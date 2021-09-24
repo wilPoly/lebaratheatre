@@ -23,11 +23,34 @@ menu:
 
 params:
   defaultTheme: light
-  disableThemeToggle: false
+  disableThemeToggle: true
   ShowShareButtons: false
   hideMeta: true
+
+  # Table des matières
   ShowToc: true
   TocOpen: true
+
+  profileMode:
+    enabled: true
+    title: "<Title>" # optional default will be site title
+    subtitle: "This is subtitle"
+    imageUrl: "<image link>" # optional
+    imageTitle: "<title of image as alt>" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Archive
+        url: "/archive"
+      - name: Github
+        url: "https://github.com/"
+
+    socialIcons: # optional
+      - name: "facebook"
+        url: "https://www.facebook.com"
+      - name: "instagram"
+        url: "<link2>"
+
   # homeInfoParams:
   #   Title: Le bar à théâtre, qu’est-ce que c’est ?
   #   Content: >
