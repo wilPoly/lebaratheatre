@@ -10,3 +10,5 @@ ShowToc: false # Pas de table des matières
 Également metteuse en scène, j’ai participé à la création de pièces professionnelles (écriture/mise en scène).
 
 Intervenante par ailleurs, j’anime des ateliers de théâtre et d’improvisation depuis 2012 pour différentes structures associatives, telles que La CLEF à Saint-Germain-en-Laye ou la MJC de la Vallée à Chaville. Désireuse d’élargir mes horizons d’intervention, je propose, aujourd’hui, de mettre mon expérience à votre service.
+
+{{< figure src="../images/photo_bio.jpg" caption="Photo: A. Jouaux" >}}

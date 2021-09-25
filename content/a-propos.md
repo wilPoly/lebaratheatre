@@ -1,8 +1,9 @@
 ---
-title: "A Propos"
+title: "À Propos"
 date: 2021-09-21T20:42:28+02:00
 draft: true
 ShowToc: false
+weight: 1
 ---
 
 ### Le bar à théâtre, qu’est-ce que c’est ?
