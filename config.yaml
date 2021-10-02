@@ -1,5 +1,5 @@
-baseURL: "http://example.org/"
-languageCode: en-us
+baseURL: "https://lebaratheatre.com"
+languageCode: fr
 title: "Le Bar à Théâtre"
 theme: PaperMod
 defaultContentLanguage: fr
@@ -15,7 +15,7 @@ menu:
       name: Prestations
       url: /prestations/
       weight: 2
-      
+
     - identifier: bio
       name: Bio
       url: /bio/
@@ -44,7 +44,11 @@ params:
     - name: "email"
       url: "mailto:lebaratheatre@gmail.com"
     - name: "phone"
-      url: <a href="tel:+33682497609"></a>
+      url: "tel:+33682497609"
+    - name: "facebook"
+      url: ""
+    - name: "instagram"
+      url: ""
 
   # homeInfoParams:
   #   Title: Le bar à théâtre, qu’est-ce que c’est ?
