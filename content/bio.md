@@ -1,7 +1,7 @@
 ---
 title: "Bio"
 date: 2021-09-21T23:22:47+02:00
-draft: true
+draft: false
 ShowToc: false # Pas de table des matières
 ---
 
@@ -11,4 +11,4 @@ ShowToc: false # Pas de table des matières
 
 Intervenante par ailleurs, j’anime des ateliers de théâtre et d’improvisation depuis 2012 pour différentes structures associatives, telles que La CLEF à Saint-Germain-en-Laye ou la MJC de la Vallée à Chaville. Désireuse d’élargir mes horizons d’intervention, je propose, aujourd’hui, de mettre mon expérience à votre service.
 
-{{< figure src="../images/photo_bio.jpg" caption="Photo: A. Jouaux" >}}
+{{< figure src="../images/photo_bio.jpg" caption="Photo: M. Drouot" >}}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Le Bar à Théâtre</title>
+    <link>https://lebaratheatre.com/</link>
+    <description>Recent content on Le Bar à Théâtre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language><atom:link href="https://lebaratheatre.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prestations</title>
+      <link>https://lebaratheatre.com/prestations/</link>
+      <pubDate>Tue, 21 Sep 2021 23:24:47 +0200</pubDate>
+      
+      <guid>https://lebaratheatre.com/prestations/</guid>
+      <description>Les ateliers Ponctuels ou réguliers, ils peuvent être adaptés sous forme de stages (d&amp;rsquo;initiation ou à thème). Ils s’articulent autour de divers exercices ludiques qui permettent d’apprendre à faire du théâtre en s’amusant.
+Objectifs généraux  Savoir placer sa voix et son corps sur une scène Se mettre dans la peau d’un ou de plusieurs personnages Apprivoiser les différentes émotions Croire en l’histoire qu’on raconte Se lâcher  L&amp;rsquo;atelier théâtre Atelier régulier</description>
+    </item>
+    
+    <item>
+      <title>Bio</title>
+      <link>https://lebaratheatre.com/bio/</link>
+      <pubDate>Tue, 21 Sep 2021 23:22:47 +0200</pubDate>
+      
+      <guid>https://lebaratheatre.com/bio/</guid>
+      <description>Daphnée Barat Élève au Conservatoire régional de Versailles (promotion 2015), j&amp;rsquo;ai suivi une formation de comédienne classique. J’ai participé à divers spectacles au théâtre Montansier de Versailles ainsi que dans d’autres lieux avec plusieurs compagnies de théâtre et d’improvisation en Île-de-France. Également metteuse en scène, j’ai participé à la création de pièces professionnelles (écriture/mise en scène).
+Intervenante par ailleurs, j’anime des ateliers de théâtre et d’improvisation depuis 2012 pour différentes structures associatives, telles que La CLEF à Saint-Germain-en-Laye ou la MJC de la Vallée à Chaville.</description>
+    </item>
+    
+    <item>
+      <title>À Propos</title>
+      <link>https://lebaratheatre.com/a-propos/</link>
+      <pubDate>Tue, 21 Sep 2021 20:42:28 +0200</pubDate>
+      
+      <guid>https://lebaratheatre.com/a-propos/</guid>
+      <description>Le bar à théâtre, qu’est-ce que c’est ? Eh bien c’est moi, Daphnée Barat, comédienne, improvisatrice depuis 2009 et intervenante en théâtre et en improvisation théâtrale depuis 2012. Le bar à théâtre, c’est l’envie de diffuser la pratique du théâtre et de l’impro en amateur à des publics de tous niveaux et de tous horizons. La pratique théâtrale est une discipline qui se pratique à tout âge. Que l’on ait 5 ans ou 90 ans, il est toujours intéressant d’apprendre à vivre ensemble, de reconnaître et de partager ses émotions ou encore de développer son langage et sa créativité.</description>
+    </item>
+    
+  </channel>
+</rss>

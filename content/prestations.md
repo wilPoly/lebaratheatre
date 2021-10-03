@@ -1,7 +1,7 @@
 ---
 title: "Prestations"
 date: 2021-09-21T23:24:47+02:00
-draft: true
+draft: false
 ---
 
 ## Les ateliers
@@ -44,4 +44,4 @@ Il propose de découvrir l’improvisation ou de se perfectionner.
 > Les objectifs ci-dessus ne sont pas exhaustifs. Ils peuvent être ajustés selon votre envie et votre projet (préparation de concours, option théâtre du baccalauréat, stage découverte, etc.) et les ateliers adaptés suivant l’âge et la condition des participants (personnes en situation de handicap, atelier d’éveil pour les tout petits etc.)
 
 La durée d’un atelier (ou d’un stage) dépend de l’objectif initial et de l’âge des participants et de leur nombre.
-Les tarifs sont calculés en fonction du format de l’atelier choisi. N’hésitez-pas à demander un devis.
+Les tarifs sont calculés en fonction du format de l’atelier choisi. N’hésitez-pas à demander un devis à **lebaratheatre[at]gmail.com**
