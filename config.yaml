@@ -40,7 +40,7 @@ params:
     enabled: true
     title: "<Title>" # optional default will be site title
     # subtitle: "This is subtitle"
-    imageUrl: "images/baratheatre_logo_01.png" # optional
+    imageUrl: "images/baratheatre_logo_v3.png" # optional
     imageTitle: "<title of image as alt>" # optional
     imageWidth: 300 # custom size
     imageHeight: auto # custom size

@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language><atom:link href="https://lebaratheatre.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Contact</title>
+      <link>https://lebaratheatre.com/contact/</link>
+      <pubDate>Sun, 03 Oct 2021 13:09:00 +0200</pubDate>
+      
+      <guid>https://lebaratheatre.com/contact/</guid>
+      <description>Pour toute demande, vous pouvez me contacter par mail à lebaratheatre[at]gmail.com</description>
+    </item>
+    
+    <item>
       <title>Prestations</title>
       <link>https://lebaratheatre.com/prestations/</link>
       <pubDate>Tue, 21 Sep 2021 23:24:47 +0200</pubDate>
